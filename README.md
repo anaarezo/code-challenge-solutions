@@ -1,6 +1,7 @@
-# code-challenge-solutions
+# Code Challenge Solutions
 
 LeetCode and HackerRank solutions for studies.
 
-| bla | bla |
-| --- | --- |
+| Code Challenge      | Keywords                   | Link                                                              |
+| ------------------- | -------------------------- | ----------------------------------------------------------------- |
+| Islands in a matrix | matrix, depth first search | [islands-in-a-matrix](islands-in-a-matrix/islands-in-a-matrix.md) |
