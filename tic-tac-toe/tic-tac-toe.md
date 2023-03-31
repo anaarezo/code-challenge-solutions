@@ -1,4 +1,6 @@
-# noughtscrosses
+# Tic Tac Toe
+
+## noughtscrosses
 
 We need you to build a system that will evaluate a game board and determine if there is a winner or if there is no winner.
 You will specify how the data should be given to the system you create. The other teams will conform to whatever API you devise.
